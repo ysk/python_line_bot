@@ -20,3 +20,6 @@ pip install flask<br>
 pip install flask_ngrok<br>
 pip install line-bot-sdk<br>
 pip install pya3rt<br>
+
+## Qiita記事
+https://qiita.com/ikdysk/items/50779b7c1403be71a5cb
